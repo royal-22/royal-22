@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @royal-22
+- Hi, I’m @royal-22
 
 <!---
 royal-22/royal-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
